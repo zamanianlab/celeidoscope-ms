@@ -1,0 +1,7 @@
+sample_id,project_batch,rep,strain,fp,tissue
+N2-Cntr-20250724_S71_L004,a,1,N2,Neg,all
+ZAM47-GFP-20250815_S76_L004,a,1,ZAM47,GFP,pharynx
+ZAM47-mCh-20250815_S74_L004,a,1,ZAM47,mCh,bodywall
+ZAM47-mKO-20250815_S73_L004,a,1,ZAM47,mKO,neuron
+ZAM47-Neg-20250815_S72_L004,a,1,ZAM47,Neg,negative
+ZAM47-YFP-20250815_S75_L004,a,1,ZAM47,YFP,intestine
